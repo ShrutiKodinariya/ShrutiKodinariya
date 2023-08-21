@@ -6,7 +6,7 @@
 
 <h2 align="center"><i>Github Stats & Languages Used</i></h2>
 <div align="center">
-  <a href="https://github.com/mrkaushal/github-readme-stats"><img align="center"
+  <a href=""><img align="center"
       src="https://github-readme-stats.vercel.app/api?username=ShrutiKodinariya&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"
       alt="Shruti's github stats" height="170" /></a> <a
     href="https://github.com/mrkaushal/github-readme-stats"><img align="center"
